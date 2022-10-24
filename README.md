@@ -2,7 +2,7 @@
 
 👯 I collaborate on:
 
-![Robot in a Can](https://img.shields.io/badge/Robotinacan-blue?logo=github&logoColor=white&style=for-the-badge) ![Centre Preville](https://img.shields.io/badge/Centre%20Preville-blue?logo=Adobe%20Premiere%20Pro&logoColor=white&style=for-the-badge) ![Startr](https://img.shields.io/badge/Startr-purple?logo=quasar&logoColor=white&style=for-the-badge)
+![Robot in a Can](https://img.shields.io/badge/Robotinacan-blue?logo=github&logoColor=white&style=for-the-badge) ![Startr](https://img.shields.io/badge/Startr-purple?logo=quasar&logoColor=white&style=for-the-badge) ![Centre Preville](https://img.shields.io/badge/Centre%20Preville-blue?logo=Adobe%20Premiere%20Pro&logoColor=white&style=for-the-badge)
 
 <!--
 **opencoca/opencoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
