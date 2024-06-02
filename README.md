@@ -4,15 +4,14 @@ As a pioneering mind behind Etsy.com, my aspirations have always been intertwine
 
 #### Uniting with Visionaries: A Legacy of Collaboration and Innovation
 
-My dedication to the tech community is marked by an unwavering commitment to collaboration, breaking new ground, and driving societal advancement. I take pride in my contributions across various ventures that share this ethos:
+My dedication to the tech community is marked by an unwavering commitment to collaboration, breaking new ground, and driving societal advancement. I take pride in as founder of ventures that share this ethos:
+
+[![Startr](https://img.shields.io/badge/Startr-purple?logo=quasar&logoColor=white&style=for-the-badge)](https://startr.ca) 
+  - *The Startr Inititative is fertile ground for nurturing the seeds of startups that revolutionize industries.*
 
 [![Robot in a Can](https://img.shields.io/badge/Robotinacan-blue?logo=github&logoColor=white&style=for-the-badge)](https://robotinacan.com) 
   - *Robot in a Can is where robotics and human creativity coalesce.* 
-
-[![Startr](https://img.shields.io/badge/Startr-purple?logo=quasar&logoColor=white&style=for-the-badge)](https://startr.ca) 
-  - *STARTR A fertile ground for nurturing the seeds of startups that revolutionize industries.*
-
-    
+   
 🌿 My dedication extends beyond the digital realm as I actively contribute to organizations with a profound impact on society:
 
 [![FFPF](https://img.shields.io/badge/FFPF-ec1d23?logo=embark&textColor=white&style=for-the-badge)](https://ffpf.org/)
