@@ -8,8 +8,10 @@ As a pioneering mind behind Etsy.com, my aspirations have always been intertwine
 
 I love our tech community and I'm focused on collaboration, breaking new ground, and driving societal advancement. I take pride in as founder of ventures that share this ethos:
 
-|   |   | 
+|   |   |
 |---|---|
+|   | I love our tech community and I'm focused on collaboration, breaking new ground, and driving societal advancement. I take pride in as founder of ventures that share this ethos:  | 
+|   |   |
 |[![Startr](https://img.shields.io/badge/Startr-purple?logo=quasar&logoColor=white&style=for-the-badge)](https://startr.ca) | *Startr Inititative is fertile ground for nurturing the seeds of startups that revolutionize industries.* | 
 |[![Robot in a Can](https://img.shields.io/badge/Robotinacan-blue?logo=github&logoColor=white&style=for-the-badge)](https://robotinacan.com)   | *Robot in a Can: The world needs more curious, creative, and confident kids.*   | 
 |   |   |
