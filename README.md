@@ -8,24 +8,16 @@ As a pioneering mind behind Etsy.com, my aspirations have always been intertwine
 
 My dedication to the tech community is marked by an unwavering commitment to collaboration, breaking new ground, and driving societal advancement. I take pride in as founder of ventures that share this ethos:
 
-[![Startr](https://img.shields.io/badge/Startr-purple?logo=quasar&logoColor=white&style=for-the-badge)](https://startr.ca) 
-  - *The Startr Inititative is fertile ground for nurturing the seeds of startups that revolutionize industries.*
-
-[![Robot in a Can](https://img.shields.io/badge/Robotinacan-blue?logo=github&logoColor=white&style=for-the-badge)](https://robotinacan.com) 
-  - *Robot in a Can is where robotics and human creativity coalesce.* 
-   
-🌿 My dedication extends beyond the digital realm as I actively contribute to organizations with a profound impact on society:
-
-[![FFPF](https://img.shields.io/badge/FFPF-ec1d23?logo=embark&textColor=white&style=for-the-badge)](https://ffpf.org/)
-
-  - *I advise the FFPF an international nonprofit that reimagines public health and education for greater inclusivity.*
- 
-[![Robot in a Can](https://img.shields.io/badge/The_Study-purple?logo=sheild&logoColor=white&style=for-the-badge)](https://TheStudy.qc.ca)
-  - *I advise Canada's top tech focused all Girls Private School*
-
-[![Centre Preville](https://img.shields.io/badge/Centre%20Preville-blue?logo=Adobe%20Premiere%20Pro&logoColor=white&style=for-the-badge)](https://centrepreville.org/)
-
-  - *I'm on the board of Centre Preville a leader in bilingual, arts-based education ever since 1974, advocating for intellectual property and ethical digital practices.* 
+|   |   | 
+|---|---|
+|[![Startr](https://img.shields.io/badge/Startr-purple?logo=quasar&logoColor=white&style=for-the-badge)](https://startr.ca) | *Startr Inititative is fertile ground for nurturing the seeds of startups that revolutionize industries.* | 
+|[![Robot in a Can](https://img.shields.io/badge/Robotinacan-blue?logo=github&logoColor=white&style=for-the-badge)](https://robotinacan.com)   | *Robot in a Can: The world needs more curious, creative, and confident kids.*   | 
+|   |   |
+|   | 🌿 My dedication extends beyond the digital realm as I actively contribute to organizations with a profound impact on society:  |
+|   |   |
+| [![FFPF](https://img.shields.io/badge/FFPF-ec1d23?logo=embark&textColor=white&style=for-the-badge)](https://ffpf.org/)  | *I advise the FFPF an international nonprofit that reimagines public health and education for greater inclusivity.* 
+| [![The Study](https://img.shields.io/badge/The_Study-purple?logo=sheild&logoColor=white&style=for-the-badge)](https://TheStudy.qc.ca) |  *I advise Canada's top tech focused all Girls Private K-11 School* |
+| [![Centre Preville](https://img.shields.io/badge/Centre%20Preville-blue?logo=Adobe%20Premiere%20Pro&logoColor=white&style=for-the-badge)](https://centrepreville.org/) | *I'm on the board of Centre Preville a leader in bilingual, arts-based education ever since 1974, advocating for intellectual property and ethical digital practices.* |
 
 
 
